@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+#--- les trois lignes a ajouter ---
+data/ # versionnees a l'atelier 3
+models/ # sorties du pipeline
+reports/ # metriques produites
+
 # C extensions
 *.so
 
